@@ -54,6 +54,16 @@ Each panel is drawn in a CAD-style view; holes, grooves and edge banding are lay
 |---|---|
 | ![Cabinet properties](docs/screenshots/07-cabinet-properties.png) | ![Project settings](docs/screenshots/08-project-settings.png) |
 
+## Source code and live demo — on request
+
+The source code is **private**. If you are considering me for a role and would like to see how the program works, I am happy to:
+
+- give a **live demo** of the application,
+- do a **code walkthrough** (screen share), or
+- grant **temporary read-only access** to the private repository.
+
+Please contact me through my GitHub profile or the contact details on my CV.
+
 ## Documentation
 
 - [How it works](docs/HOW_IT_WORKS.md) — the idea, the data flow and notable techniques (no source code)
