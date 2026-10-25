@@ -6,7 +6,7 @@ Place cabinets along a wall and the program generates every panel, every drilled
 > **About this repository.** This is the *portfolio page* for the project: documentation and screenshots only.
 > **The source code is private** and is not published here. A live demo or a code walkthrough is available on request.
 
-![Kitchen layout](docs/screenshots/01-kitchen-layout.png)
+![Photorealistic render of the demo kitchen](docs/screenshots/07-photorealistic-render.png)
 
 ## Highlights
 
@@ -28,23 +28,36 @@ Place cabinets along a wall and the program generates every panel, every drilled
 
 ## Screenshots
 
-*All screenshots show the program's English interface with a demo project.*
+*All screenshots show the program's English interface with a demo project. The outputs (renders, drawings, lists, labels) are exactly what the program generates.*
 
-### Layout and elevation
-![Kitchen layout](docs/screenshots/01-kitchen-layout.png)
+### Design: layout, 3D, exploded view
+
+| Kitchen layout (elevation) | 3D view |
+|---|---|
+| ![Kitchen layout](docs/screenshots/01-kitchen-layout.png) | ![3D view](docs/screenshots/05-3d-view.png) |
+
+### Photorealistic render (built-in path tracer)
+![Photorealistic render](docs/screenshots/07-photorealistic-render.png)
 
 ### Every part with its CNC machining
 Each panel is drawn in a CAD-style view; holes, grooves and edge banding are layers, and every operation is editable in the table below.
 ![Parts and CNC machining](docs/screenshots/02-parts-and-cnc-machining.png)
 
-### Cut list
-![Cut list](docs/screenshots/03-cut-list.png)
+### Production: cut list, sheet optimization, labels
+| Cut list | Nesting (sheet optimization) |
+|---|---|
+| ![Cut list](docs/screenshots/03-cut-list.png) | ![Nesting](docs/screenshots/04-nesting.png) |
 
-### Nesting — sheet optimization
-![Nesting](docs/screenshots/04-nesting.png)
+| Printed cut list | Part labels (50 × 30 mm) |
+|---|---|
+| ![Printed cut list](docs/screenshots/08-printed-cut-list.png) | ![Part labels](docs/screenshots/12-part-labels.png) |
 
-### 3D view
-![3D view](docs/screenshots/05-3d-view.png)
+### Documents the program prints
+| Assembly instructions | Shop drawing of a cabinet |
+|---|---|
+| ![Assembly instructions](docs/screenshots/09-assembly-instructions.png) | ![Shop drawing](docs/screenshots/10-shop-drawing-drawer-base.png) |
+
+![Wall elevation drawing](docs/screenshots/11-wall-elevation-drawing.png)
 
 ### Exploded cabinet with numbered parts
 ![Exploded cabinet](docs/screenshots/06-exploded-cabinet.png)
@@ -52,7 +65,7 @@ Each panel is drawn in a CAD-style view; holes, grooves and edge banding are lay
 ### Parametric options
 | Cabinet properties | Project construction settings |
 |---|---|
-| ![Cabinet properties](docs/screenshots/07-cabinet-properties.png) | ![Project settings](docs/screenshots/08-project-settings.png) |
+| ![Cabinet properties](docs/screenshots/13-cabinet-properties.png) | ![Project settings](docs/screenshots/14-project-settings.png) |
 
 ## Source code and live demo — on request
 
